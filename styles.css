@@ -1,0 +1,12 @@
+.navbar-topnav{
+    background-color: aqua;
+    background-image:"C:\Users\HP\Desktop\Angular Project\Modus\images\headerbg.png";
+    color: white;
+
+}
+.nav-logo{
+    float: left;
+}
+.topnav{
+    float: right;
+}
